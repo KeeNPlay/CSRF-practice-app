@@ -18,7 +18,7 @@
         <option value="iTechArt">iTechArt</option>
         <option value="Modsen">Modsen</option>
     </select><br><br>
-    <button type="submit">Submit</button>
+    <button type="submit">Отправить</button>
 </form>
 </body>
 </html>
